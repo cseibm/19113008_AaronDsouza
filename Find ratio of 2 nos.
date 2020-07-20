@@ -1,0 +1,4 @@
+a=input()
+   b=input()
+   ratio = a/b    
+   print(ratio)
