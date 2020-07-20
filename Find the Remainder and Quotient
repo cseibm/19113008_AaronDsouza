@@ -1,0 +1,5 @@
+ a=input()
+   b=input()
+   quotient = a//b
+   remainder = a%b
+   print(quotient,remainder)
